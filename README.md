@@ -1,2 +1,2 @@
-# c-template
-c++ template for standard project with unit test
+# C++ Template
+C++ template for standard project with unit test
