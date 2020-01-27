@@ -1,7 +1,10 @@
 #include <iostream>
 
-int main(int argc, char* argv[]) {
-    std::cout << "Hello World" << std::endl;
+#include "src/lib/solution.h"
 
-    return 0;
+int main(int argc, char* argv[]) {
+    Solution solution;
+    std::cout << solution.HelloWorld() << std::endl;
+
+    return EXIT_SUCCESS;
 }
