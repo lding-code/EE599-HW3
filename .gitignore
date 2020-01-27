@@ -7,6 +7,9 @@
 # VS code related files:
 **/.vscode
 
+# PDF files:
+*.pdf
+
 # Prerequisites
 *.d
 
